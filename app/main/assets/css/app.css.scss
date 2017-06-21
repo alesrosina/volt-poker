@@ -73,6 +73,7 @@ body {
 .card-front,
 .card-back {
   backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
   position: absolute;
 }
 
